@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Giri\u015FSahnesi.unity"
+    guid: 8238bda7965ca8045bea15ab8f3ede5e
+  - enabled: 1
+    path: Assets/Scenes/MAIN MENU.unity
+    guid: 7a77143ddf16b6b45a28d9fb73b8d207
+  - enabled: 1
+    path: Assets/Scenes/CHARACTER SELECTION.unity
+    guid: c8aaf6e122280eb448458c589922fb56
+  - enabled: 1
+    path: Assets/Scenes/More.unity
+    guid: ed12fcb96f2a2814d860ee648566e4cd
+  - enabled: 1
+    path: Assets/Scenes/DovusSahnesi.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Champions.unity
+    guid: f66068082fb2fb046a631edbdb373853
+  - enabled: 1
+    path: Assets/Scenes/CreateRoom.unity
+    guid: bd44fe9b37ba61b47bb604c35519c9ba
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 8a583d0de8537244ea4571daee6b6e6f
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 153b968b30545c541af5f83636fe2d79, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ec9df76ff07664e408cb1fa756459094, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 76805876730bd1e4c9ec494125826e08, type: 2}

@@ -1,0 +1,4 @@
+repository "Sh1tkombat@ShitKombat@cloud"
+  path "/"
+    br "/main"
+    co "/main"
